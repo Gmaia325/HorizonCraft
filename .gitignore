@@ -1,9 +1,16 @@
 *
+
+!mods/*
 !mods/
 !resourcepacks/
+!resourcepacks/*
 !saves/
+!saves/*
 !shaderpacks/
+!shaderpacks/*
 !options.txt
 !.gitignore
 !config/
+!config/*
 !datapacks/
+!datapacks/*
