@@ -1,0 +1,9 @@
+*
+!mods/
+!resourcepacks/
+!saves/
+!shaderpacks/
+!options.txt
+!.gitignore
+!config/
+!datapacks/
