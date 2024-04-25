@@ -1,0 +1,18 @@
+= HorizonCraft
+
+HorizonCraft is a modpack based on the popular Simply Optimized modpack. It aims to enhance the vanilla Minecraft experience with quality of life improvements and additional content.
+
+==== The key features of HorizonCraft include:
+
+All the mods from Simply Optimized for a smooth  experience with Minecraft
+Performance and optimization tweaks to improve gameplay smoothness
+
+==== To play HorizonCraft:
+
+Download the latest version from this repository
+exctract the ``.zip`` on the minecraft folder and now you can play it!
+
+Enjoy!
+
+
+Let me know if you need to add any other improvements or if you have any comments on the content. This helps keep the modpack up to date and concise.
